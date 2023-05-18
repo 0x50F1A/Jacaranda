@@ -1,0 +1,17 @@
+{
+	"Author": "Bryn",
+	"Name": "Jacaranda",
+	"Punchline": "Branching predictor for operator optimizations.",
+	"Description": "Optimizes the state of the player via a branching decision tree.",
+	"InternalName": "Jacaranda",
+	"AssemblyVersion": "0.0.1",
+	"RepoUrl": "https://github.com/0x50F1A/Jacarandae",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"Tags": [
+        "optimization",
+        "decision tree",
+        "self care"
+    ],
+	"IconUrl": "https://github.com/0x50F1A/Jacaranda/raw/main/Data/icon.png"
+}
